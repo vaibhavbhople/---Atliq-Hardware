@@ -74,3 +74,6 @@ This database structure allows Atliq Hardware to effectively analyze customer, p
 
 ## Gratitude
 Special thanks to Dhaval Patel, Hemanand Vadivel, and Team Codebasics for providing this enriching opportunity to refine my SQL skills and gain hands-on experience in real-world data analysis.
+
+### Video Presntation : 
+https://youtu.be/_PdPOQlA11o
